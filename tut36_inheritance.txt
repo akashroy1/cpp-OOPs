@@ -1,0 +1,10 @@
+Inheritance - Used to increase reability
+We can use all the properties of an existing class by inherititing from it.
+The existing class is called BASE CLASS
+The new  class which is inheritated is called as the DERIVED CLASS
+Different Types of Inheritance 
+    - Single Inheritance
+    - Multiple Inheritances
+    - Hierarchical Inheritances
+    - Multilevel Inheritances
+    - Hybrid Inheritances

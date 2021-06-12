@@ -1,0 +1,8 @@
+Variable is a Container to Store Data.
+
+Scope
+Local & Global Variable
+
+Naming of Variable
+
+Datatype

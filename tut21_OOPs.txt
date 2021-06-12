@@ -1,0 +1,39 @@
+To maintain readability, maintainibility and bug-free nature
+Invented OOP Concept 
+
+Classes And Object
+
+Class is a template to create Object
+
+Class- Basic Template to Create Object.
+Object- Basic Runtime entities.
+Data Abstraction & Encapsulation- Wrapping Data and function into single unit.
+Inheritance- Properties of one Class can be inharited to others.
+Polymorphism- Ability to take more than one forms.
+Dynamic Binding- Code which will execute is not known until the programme runs.
+Massage Passing- Object.massage(information) call format.
+
+
+C++ --> Initially Called --> C with Classes 
+Class --> Extension of Structures
+
+Structure Limitation
+    -- Members are Public
+    -- No Methods
+
+Classes = Structures + More
+    Classes can have method and Properties
+    Classes can make few mwmbers private and Public
+
+Structures in C++ are typedefed
+
+We can Declare objects right after class declaration
+Like This
+
+    Class Employee {
+        //Code
+    }akash, harry;
+
+akash.salary = value --> it makes no sense if salary is private.
+
+

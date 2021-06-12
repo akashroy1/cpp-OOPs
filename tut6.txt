@@ -1,0 +1,6 @@
+There are 2 types of header file :
+
+1. System Header files - comes with compliler
+#include <>
+2. User Defined Written by Programmer
+#include ""
