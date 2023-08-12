@@ -18,11 +18,11 @@ int main()
 
    /*     Reference Variable     */
 
-       float x = 23;
-       float &y =x;
+    float x = 23;
+    float &y =x;
 
-       cout<<x<<endl;
-       cout<<y<<endl;
+    cout<<x<<endl;
+    cout<<y<<endl;
 
     int a = 45;   
     float b = 45.46;
